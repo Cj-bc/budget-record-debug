@@ -1,0 +1,259 @@
+{
+  "version": 1,
+  "funds": [
+    {
+      "id": "01M5HTNTKRZ7N1D6QZ2VYSA08D",
+      "name": "その他",
+      "color": 4286274756,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 10,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTKSV3JE6BNZYW6E9SRS",
+      "name": "通信費",
+      "color": 4279506716,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 9,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTKT5KXJ80AS3SJD8A08",
+      "name": "教育費",
+      "color": 4279143564,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 8,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTKVXHRH7XHHSCFFRGZX",
+      "name": "日用品",
+      "color": 4283068325,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 7,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTKW99NEKW40PMJWYCZ7",
+      "name": "衣服費",
+      "color": 4284113261,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 6,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTKXE7FE3C3VDM7EME99",
+      "name": "娯楽費",
+      "color": 4286274756,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 5,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTKY172JE54T0DVHHBYZ",
+      "name": "医療費",
+      "color": 4281239211,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 4,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTKZQBZPTAKFX07J1JED",
+      "name": "光熱費",
+      "color": 4282359406,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 3,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTM0TP9HSW5VWD2T2EAK",
+      "name": "住居費",
+      "color": 4285239082,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 2,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTM13DZCVK89SCTK400F",
+      "name": "交通費",
+      "color": 4292385323,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 1,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTM20P8370XKX1FEC7MG",
+      "name": "食費",
+      "color": 4291319101,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 0,
+      "archived": false
+    }
+  ],
+  "expense_categories": [
+    {
+      "id": "01M5HTNTM00Y3N1NY6FMJDDYM4",
+      "name": "日用品",
+      "pinned": false,
+      "sort_order": 7,
+      "archived": false,
+      "default_fund_id": "01M5HTNTKVXHRH7XHHSCFFRGZX"
+    },
+    {
+      "id": "01M5HTNTM01WEXBVDFJ5Q3MKFK",
+      "name": "住居費",
+      "pinned": true,
+      "sort_order": 2,
+      "archived": false,
+      "default_fund_id": "01M5HTNTM0TP9HSW5VWD2T2EAK"
+    },
+    {
+      "id": "01M5HTNTM04Y3SBAJM0NM1YY75",
+      "name": "衣服費",
+      "pinned": true,
+      "sort_order": 6,
+      "archived": false,
+      "default_fund_id": "01M5HTNTKW99NEKW40PMJWYCZ7"
+    },
+    {
+      "id": "01M5HTNTM05QPTX5C0GYTAQ34J",
+      "name": "交通費",
+      "pinned": true,
+      "sort_order": 1,
+      "archived": false,
+      "default_fund_id": "01M5HTNTM13DZCVK89SCTK400F"
+    },
+    {
+      "id": "01M5HTNTM0CW6VR18ZBDTZ2C8N",
+      "name": "医療費",
+      "pinned": true,
+      "sort_order": 4,
+      "archived": false,
+      "default_fund_id": "01M5HTNTKY172JE54T0DVHHBYZ"
+    },
+    {
+      "id": "01M5HTNTM0QKVZCRFJY3Y6EVVX",
+      "name": "光熱費",
+      "pinned": true,
+      "sort_order": 3,
+      "archived": false,
+      "default_fund_id": "01M5HTNTKZQBZPTAKFX07J1JED"
+    },
+    {
+      "id": "01M5HTNTM0VG8PN67RTK84NX6R",
+      "name": "娯楽費",
+      "pinned": true,
+      "sort_order": 5,
+      "archived": false,
+      "default_fund_id": "01M5HTNTKXE7FE3C3VDM7EME99"
+    },
+    {
+      "id": "01M5HTNTM0Y2VT1ZNS3DMXG6E6",
+      "name": "食費",
+      "pinned": true,
+      "sort_order": 0,
+      "archived": false,
+      "default_fund_id": "01M5HTNTM20P8370XKX1FEC7MG"
+    },
+    {
+      "id": "01M5HTNTM1V14DZNE73PE7878W",
+      "name": "その他",
+      "pinned": false,
+      "sort_order": 10,
+      "archived": false,
+      "default_fund_id": "01M5HTNTKRZ7N1D6QZ2VYSA08D"
+    },
+    {
+      "id": "01M5HTNTM1W03TR0193BWMG7C8",
+      "name": "教育費",
+      "pinned": false,
+      "sort_order": 8,
+      "archived": false,
+      "default_fund_id": "01M5HTNTKT5KXJ80AS3SJD8A08"
+    },
+    {
+      "id": "01M5HTNTM1YVN53Y78K7CWBX3K",
+      "name": "通信費",
+      "pinned": false,
+      "sort_order": 9,
+      "archived": false,
+      "default_fund_id": "01M5HTNTKSV3JE6BNZYW6E9SRS"
+    }
+  ],
+  "income_categories": [
+    {
+      "id": "01M5HTNTM10ZFW1N7TFASE85S0",
+      "name": "その他",
+      "pinned": false,
+      "sort_order": 3,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTM19QRTMQDX3X9NNTC6",
+      "name": "賞与",
+      "pinned": false,
+      "sort_order": 2,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTM1DE7DRS01J2V4XAXN",
+      "name": "副収入",
+      "pinned": false,
+      "sort_order": 1,
+      "archived": false
+    },
+    {
+      "id": "01M5HTNTM1KT1YWFAJBTJ9G6MT",
+      "name": "給与",
+      "pinned": false,
+      "sort_order": 0,
+      "archived": false
+    }
+  ],
+  "allocation_rules": [],
+  "recurring_items": []
+}
