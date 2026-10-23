@@ -285,7 +285,13 @@
     {
       "id": "01M5M87Y3K5S6XMNBFAKBVE0QJ",
       "income_category_id": "01M5HTNTM1KT1YWFAJBTJ9G6MT",
-      "lines": [],
+      "lines": [
+        {
+          "type": "fixed",
+          "fund_id": "01M5HTNTM20P8370XKX1FEC7MG",
+          "amount": 0
+        }
+      ],
       "rest_fund_id": "01M5HTNTKRZ7N1D6QZ2VYSA08D"
     }
   ],
