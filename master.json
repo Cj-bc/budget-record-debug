@@ -144,6 +144,21 @@
       "show_in_entry": true,
       "sort_order": 11,
       "archived": false
+    },
+    {
+      "id": "01M5KCYXBPEHD31BP0VGA4QM1Y",
+      "name": "旅行",
+      "color": 4283068325,
+      "opening_balance": 0,
+      "goal": {
+        "type": "target",
+        "amount": 100000,
+        "start_month": "2026-10",
+        "due_month": "2027-05"
+      },
+      "show_in_entry": false,
+      "sort_order": 12,
+      "archived": false
     }
   ],
   "expense_categories": [
