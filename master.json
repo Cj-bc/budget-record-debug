@@ -282,5 +282,16 @@
     }
   ],
   "allocation_rules": [],
-  "recurring_items": []
+  "recurring_items": [
+    {
+      "id": "01M5KCZYZF3P265GDJCH8PG7DA",
+      "name": "家賃",
+      "amount": 70000,
+      "category_id": "01M5HTNTM01WEXBVDFJ5Q3MKFK",
+      "fund_id": "01M5HTNTM0TP9HSW5VWD2T2EAK",
+      "day_of_month": 25,
+      "enabled": true,
+      "last_applied_month": null
+    }
+  ]
 }
