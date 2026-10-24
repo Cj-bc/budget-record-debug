@@ -1,4 +1,4 @@
-{
+ま{
   "version": 1,
   "funds": [
     {
@@ -131,18 +131,6 @@
       },
       "show_in_entry": true,
       "sort_order": 0,
-      "archived": false
-    },
-    {
-      "id": "01M5KCXRFKPX3ZG39BFDFTR95G",
-      "name": "てすと",
-      "color": 4292385323,
-      "opening_balance": 500002,
-      "goal": {
-        "type": "none"
-      },
-      "show_in_entry": true,
-      "sort_order": 11,
       "archived": false
     },
     {
