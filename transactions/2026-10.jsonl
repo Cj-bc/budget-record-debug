@@ -28,3 +28,4 @@
 {"v":1,"type":"expense","id":"01M5THJDZC066Z7T10ND794CSC","transaction_date":"2026-10-26","amount":514,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"","fund_id":"01M5THJ8NFQGC8HS00Y3N3DFWF","recurring_item_id":null}
 {"v":1,"type":"expense","id":"01M5THJF0PHPGGKFT8WKEHBKBJ","transaction_date":"2026-10-26","amount":569,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"","fund_id":"01M5THJ8NFQGC8HS00Y3N3DFWF","recurring_item_id":null}
 {"v":1,"type":"expense","id":"01M5THJFZNDZV99GF23DDPNS4N","transaction_date":"2026-10-26","amount":85,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"","fund_id":"01M5THJ8NFQGC8HS00Y3N3DFWF","recurring_item_id":null}
+{"v":1,"type":"income","id":"01M5THJQH7P02M7P3RPA11QQ7W","transaction_date":"2026-10-26","amount":59524,"category_id":"01M5HTNTM10ZFW1N7TFASE85S0","memo":"","budget_month":"2026-11","allocations":[{"fund_id":"01M5THJ8NFQGC8HS00Y3N3DFWF","amount":59524}]}
