@@ -111,6 +111,18 @@
       "show_in_entry": false,
       "sort_order": 12,
       "archived": false
+    },
+    {
+      "id": "01M5THJ8NFQGC8HS00Y3N3DFWF",
+      "name": "てすと",
+      "color": 4291319101,
+      "opening_balance": 0,
+      "goal": {
+        "type": "none"
+      },
+      "show_in_entry": true,
+      "sort_order": 13,
+      "archived": false
     }
   ],
   "expense_categories": [
