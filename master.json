@@ -250,6 +250,12 @@
         }
       ],
       "rest_fund_id": "01M5HTNTKRZ7N1D6QZ2VYSA08D"
+    },
+    {
+      "id": "01M5TE8CBC3TMS3JBRXR97Y6PF",
+      "income_category_id": "01M5HTNTM1KT1YWFAJBTJ9G6MT",
+      "lines": [],
+      "rest_fund_id": "01M5HTNTKRZ7N1D6QZ2VYSA08D"
     }
   ],
   "recurring_items": [
