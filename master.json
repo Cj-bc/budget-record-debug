@@ -261,9 +261,9 @@
           "amount": 3000
         },
         {
-          "type": "fixed",
+          "type": "percent",
           "fund_id": "01M5HTNTKVXHRH7XHHSCFFRGZX",
-          "amount": 0
+          "percent": 0
         }
       ],
       "rest_fund_id": "01M5HTNTKRZ7N1D6QZ2VYSA08D"
