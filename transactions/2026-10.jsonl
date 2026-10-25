@@ -12,3 +12,4 @@
 {"v":1,"type":"expense","id":"01M5TC225AGD28QJAKB549A24Q","transaction_date":"2026-10-26","amount":500,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"","fund_id":"01M5S7V0PBJ7NPHHWC6XV4Z2KA","recurring_item_id":null}
 {"v":1,"type":"expense","id":"01M5TC23HAXB7JY6DZJ5X7CYZJ","transaction_date":"2026-10-26","amount":600,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"","fund_id":"01M5S7V0PBJ7NPHHWC6XV4Z2KA","recurring_item_id":null}
 {"v":1,"type":"expense","id":"01M5TC26F772X6VXRQPYYGTRFW","transaction_date":"2026-10-26","amount":7,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"","fund_id":"01M5S7V0PBJ7NPHHWC6XV4Z2KA","recurring_item_id":null}
+{"v":1,"type":"expense","id":"01M5TC28WRZ6JS320SFBFSP12N","transaction_date":"2026-10-26","amount":8,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"","fund_id":"01M5S7V0PBJ7NPHHWC6XV4Z2KA","recurring_item_id":null}
