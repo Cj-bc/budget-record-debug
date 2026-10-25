@@ -111,18 +111,6 @@
       "show_in_entry": false,
       "sort_order": 12,
       "archived": false
-    },
-    {
-      "id": "01M5S7V0PBJ7NPHHWC6XV4Z2KA",
-      "name": "tes't",
-      "color": 4291319101,
-      "opening_balance": 0,
-      "goal": {
-        "type": "none"
-      },
-      "show_in_entry": true,
-      "sort_order": 13,
-      "archived": false
     }
   ],
   "expense_categories": [
