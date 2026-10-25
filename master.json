@@ -111,18 +111,6 @@
       "show_in_entry": false,
       "sort_order": 12,
       "archived": false
-    },
-    {
-      "id": "01M5TDDN57Q2K3X3N8XD7GP03P",
-      "name": "aaa",
-      "color": 4292385323,
-      "opening_balance": 0,
-      "goal": {
-        "type": "none"
-      },
-      "show_in_entry": true,
-      "sort_order": 13,
-      "archived": false
     }
   ],
   "expense_categories": [
