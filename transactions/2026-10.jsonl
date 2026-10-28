@@ -1,4 +1,4 @@
-{"v":1,"type":"expense","id":"01M5KCPD2P2GJXYW6RT261833Z","transaction_date":"2026-10-23","amount":1000,"category_id":"01M5HTNTM0Y2VT1ZNS3DMXG6E6","memo":"","fund_id":"01M5HTNTM20P8370XKX1FEC7MG","recurring_item_id":null}
+"v":1,"type":"expense","id":"01M5KCPD2P2GJXYW6RT261833Z","transaction_date":"2026-10-23","amount":1000,"category_id":"01M5HTNTM0Y2VT1ZNS3DMXG6E6","memo":"","fund_id":"01M5HTNTM20P8370XKX1FEC7MG","recurring_item_id":null}
 {"v":1,"type":"expense","id":"01M5KCPJAHYZ1X3VXT9N0FD2PV","transaction_date":"2026-10-23","amount":900,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"","fund_id":"01M5HTNTM13DZCVK89SCTK400F","recurring_item_id":null}
 {"v":1,"type":"income","id":"01M5KCPYCXRVFEM606QD7GMGEC","transaction_date":"2026-10-23","amount":2000,"category_id":"01M5HTNTM1KT1YWFAJBTJ9G6MT","memo":"","budget_month":"2026-11","allocations":[{"fund_id":"01M5HTNTM20P8370XKX1FEC7MG","amount":2000}]}
 {"v":1,"type":"expense","id":"01M5M86MZ4EQ4D9N99Y81264HS","transaction_date":"2026-10-23","amount":200,"category_id":"01M5HTNTM0Y2VT1ZNS3DMXG6E6","memo":"","fund_id":"01M5HTNTM20P8370XKX1FEC7MG","recurring_item_id":null}
