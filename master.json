@@ -176,7 +176,7 @@
       "pinned": true,
       "sort_order": 0,
       "archived": false,
-      "default_fund_id": "01M5HTNTM20P8370XKX1FEC7MG"
+      "default_fund_id": "01M5HTNTKW99NEKW40PMJWYCZ7"
     },
     {
       "id": "01M5HTNTM1V14DZNE73PE7878W",
@@ -192,7 +192,7 @@
       "pinned": false,
       "sort_order": 8,
       "archived": false,
-      "default_fund_id": "01M5HTNTKT5KXJ80AS3SJD8A08"
+      "default_fund_id": "01M5KCYXBPEHD31BP0VGA4QM1Y"
     },
     {
       "id": "01M5HTNTM1YVN53Y78K7CWBX3K",
@@ -240,7 +240,7 @@
       "lines": [
         {
           "type": "fixed",
-          "fund_id": "01M5HTNTM20P8370XKX1FEC7MG",
+          "fund_id": "01M5HTNTKW99NEKW40PMJWYCZ7",
           "amount": 30000
         },
         {
