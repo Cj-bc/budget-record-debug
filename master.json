@@ -2,18 +2,6 @@
   "version": 1,
   "funds": [
     {
-      "id": "01M5HTNTKRZ7N1D6QZ2VYSA08D",
-      "name": "その他",
-      "color": 4286274756,
-      "opening_balance": 0,
-      "goal": {
-        "type": "none"
-      },
-      "show_in_entry": true,
-      "sort_order": 10,
-      "archived": false
-    },
-    {
       "id": "01M5HTNTKVXHRH7XHHSCFFRGZX",
       "name": "日用品",
       "color": 4283068325,
