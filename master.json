@@ -172,7 +172,7 @@
       "pinned": false,
       "sort_order": 10,
       "archived": false,
-      "default_fund_id": "01M5HTNTKRZ7N1D6QZ2VYSA08D"
+      "default_fund_id": "01M5HTNTKZQBZPTAKFX07J1JED"
     },
     {
       "id": "01M5HTNTM1W03TR0193BWMG7C8",
@@ -237,7 +237,7 @@
           "percent": 30
         }
       ],
-      "rest_fund_id": "01M5HTNTKRZ7N1D6QZ2VYSA08D"
+      "rest_fund_id": "01M5HTNTKZQBZPTAKFX07J1JED"
     },
     {
       "id": "01M5TE8CBC3TMS3JBRXR97Y6PF",
@@ -254,7 +254,7 @@
           "percent": 30
         }
       ],
-      "rest_fund_id": "01M5HTNTKRZ7N1D6QZ2VYSA08D"
+      "rest_fund_id": "01M5HTNTKZQBZPTAKFX07J1JED"
     }
   ],
   "recurring_items": [
