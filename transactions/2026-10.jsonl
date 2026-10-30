@@ -37,3 +37,4 @@
 {"v":1,"type":"expense","id":"01M654R0YC2H9YAQG04N35KP3W","transaction_date":"2026-10-30","amount":280,"category_id":"01M5HTNTM05QPTX5C0GYTAQ34J","memo":"浅草〜東京","fund_id":"01M5HTNTM13DZCVK89SCTK400F","recurring_item_id":null}
 {"v":1,"type":"expense","id":"01M654SFWN1DK7B1888CW4NJ94","transaction_date":"2026-10-30","amount":5000,"category_id":"01M5HTNTM0Y2VT1ZNS3DMXG6E6","memo":"","fund_id":"01M5HTNTKW99NEKW40PMJWYCZ7","recurring_item_id":null}
 {"v":1,"type":"expense","id":"01M654T2H8HS9JA75ZN1DC1PSP","transaction_date":"2026-10-30","amount":120,"category_id":"01M5HTNTM0Y2VT1ZNS3DMXG6E6","memo":"ペットボトル水","fund_id":"01M5HTNTKW99NEKW40PMJWYCZ7","recurring_item_id":null}
+{"v":1,"type":"expense","id":"01M654WQ0MNGR1WTHS89Q90P8T","transaction_date":"2026-10-30","amount":26,"category_id":"01M5HTNTM0Y2VT1ZNS3DMXG6E6","memo":"","fund_id":"01M5HTNTKW99NEKW40PMJWYCZ7","recurring_item_id":null}
